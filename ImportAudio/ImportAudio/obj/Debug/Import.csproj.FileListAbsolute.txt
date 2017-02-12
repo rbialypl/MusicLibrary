@@ -1,0 +1,22 @@
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\taglib-sharp.dll
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Interop.Shell32.dll
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Import.csproj.ResolveComReference.cache
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Mr. Pigz\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Import.csprojResolveAssemblyReference.cache
+E:\Projects\ImportAudio\ImportAudio\bin\Debug\ConsoleApplication2.exe.config
+E:\Projects\ImportAudio\ImportAudio\obj\Debug\Interop.Shell32.dll
+E:\Projects\ImportAudio\ImportAudio\obj\Debug\Import.csproj.ResolveComReference.cache
+E:\Projects\ImportAudio\ImportAudio\obj\Debug\ConsoleApplication2.exe
+E:\Projects\ImportAudio\ImportAudio\obj\Debug\ConsoleApplication2.pdb
+E:\Projects\ImportAudio\ImportAudio\bin\Debug\ConsoleApplication2.exe
+E:\Projects\ImportAudio\ImportAudio\bin\Debug\ConsoleApplication2.pdb
+E:\Projects\ImportAudio\ImportAudio\bin\Debug\policy.2.0.taglib-sharp.dll
+E:\Projects\ImportAudio\ImportAudio\bin\Debug\taglib-sharp.dll
+E:\Projects\ImportAudio\ImportAudio\bin\Debug\policy.2.0.taglib-sharp.config
+E:\Projects\ImportAudio\ImportAudio\obj\Debug\Import.csprojResolveAssemblyReference.cache
